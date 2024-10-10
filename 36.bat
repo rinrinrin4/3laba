@@ -2,7 +2,7 @@
 
 IF %1 LEQ 0 GOTO Exit
 
-IF %1 GEQ GOTO Exit
+IF %1 GEQ 34 GOTO Exit
 
 SET /A n =%1
 
